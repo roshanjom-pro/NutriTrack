@@ -1,0 +1,6 @@
+{
+  "name": "NutriTrack",
+  "description": "A high-performance, clinical, and motivational nutritional dashboard for calorie tracking, personalization plans, and biometric-based recommendation logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
